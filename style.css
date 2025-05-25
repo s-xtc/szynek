@@ -95,3 +95,12 @@ img {
     margin: 0 auto;
 
 }
+
+
+    .pics{
+      padding: 10px;
+      margin: 20px 0;
+      border: 1px dashed #666;
+      text-align: center;
+      color: #ccc;
+    }
