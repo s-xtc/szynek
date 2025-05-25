@@ -54,3 +54,10 @@ footer {
   margin-top: 2rem;
   font-size: 0.9rem;
 }
+
+img {
+  padding: inherit;
+  margin:auto;
+  width: 200px;
+  display: block;
+}
