@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<url>
+  <loc>https://szynek.gay/</loc>
+  <lastmod>2025-05-25T19:48:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://szynek.gay/index.html</loc>
+  <lastmod>2025-05-25T19:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://szynek.gay/nsd.html</loc>
+  <lastmod>2025-05-25T19:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://szynek.gay/szynekpedia.html</loc>
+  <lastmod>2025-05-25T19:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://szynek.gay/contact.html</loc>
+  <lastmod>2025-05-25T19:48:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
