@@ -80,3 +80,18 @@ img {
 .winut:hover {
   text-decoration: underline;
 }
+
+.nsd {
+  color: #ff3333;
+  background-color: #222;
+  font-size: 48px;
+  text-decoration: none;
+  text-align: center;
+  width: 50%;
+  border: 3px solid rgb(128, 0, 0);
+  padding: 10px;
+      display: block;
+    width: fit-content;
+    margin: 0 auto;
+
+}
