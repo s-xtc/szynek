@@ -60,3 +60,23 @@ img {
   margin:auto;
   display: block;
 }
+
+.win {
+  text-align: center;
+  background-color: #171717;
+  padding: inherit;
+  margin:auto;
+  display: block;
+  box-shadow: 0 0 15px #37e745;
+  
+}
+.winut {
+  color: #e862c6;
+  background-color: #171717;
+  font-size: 48px;
+  text-decoration: none;
+
+}
+.winut:hover {
+  text-decoration: underline;
+}
